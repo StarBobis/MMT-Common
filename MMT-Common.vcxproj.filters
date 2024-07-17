@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="ConstantBufferBufFile.cpp" />
+    <ClCompile Include="D3d11GameType.cpp" />
+    <ClCompile Include="FmtData.cpp" />
+    <ClCompile Include="FrameAnalysisData.cpp" />
+    <ClCompile Include="FrameAnalysisLog.cpp" />
+    <ClCompile Include="GlobalConfigs.cpp" />
+    <ClCompile Include="IndexBufferBufFile.cpp" />
+    <ClCompile Include="IndexBufferTxtFile.cpp" />
+    <ClCompile Include="IndexVertexModel.cpp" />
+    <ClCompile Include="RunningConfig.cpp" />
+    <ClCompile Include="VertexBufferBufFile.cpp" />
+    <ClCompile Include="VertexBufferTxtFile.cpp" />
+    <ClCompile Include="VertexBufferTxtFileDetect.cpp" />
+    <ClCompile Include="D3D11Texture.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConstantBufferBufFile.h" />
+    <ClInclude Include="D3d11GameType.h" />
+    <ClInclude Include="FmtData.h" />
+    <ClInclude Include="FrameAnalysisData.h" />
+    <ClInclude Include="FrameAnalysisLog.h" />
+    <ClInclude Include="GlobalConfigs.h" />
+    <ClInclude Include="IndexBufferBufFile.h" />
+    <ClInclude Include="IndexBufferTxtFile.h" />
+    <ClInclude Include="IndexVertexModel.h" />
+    <ClInclude Include="RunningConfig.h" />
+    <ClInclude Include="VertexBufferBufFile.h" />
+    <ClInclude Include="VertexBufferTxtFile.h" />
+    <ClInclude Include="VertexBufferTxtFileDetect.h" />
+    <ClInclude Include="D3D11Texture.h" />
+  </ItemGroup>
+</Project>

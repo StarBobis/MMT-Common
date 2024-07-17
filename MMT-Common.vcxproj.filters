@@ -32,4 +32,19 @@
     <ClInclude Include="VertexBufferTxtFileDetect.h" />
     <ClInclude Include="D3D11Texture.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{386d2a01-10d2-4836-a5f4-5263b5be2fc8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="LICENSE.txt">
+      <Filter>Resources</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
 </Project>
